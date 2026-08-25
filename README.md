@@ -111,6 +111,17 @@
 
 ###
 
+<!-- 📊 Contribution Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ishant6565&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ishant6565&bg_color=ffffff&color=1a7f37&line=1a7f37&point=1f2328&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishant6565&theme=github-compact&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" width="100%" alt="Ishant Gupta's Contribution Graph" />
+  </picture>
+</div>
+
+###
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=106&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
