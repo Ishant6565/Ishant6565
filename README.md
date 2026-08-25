@@ -111,14 +111,11 @@
 
 ###
 
-<!-- 📊 Contribution Graph -->
+<!-- 📊 Contribution Calendar -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ishant6565&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ishant6565&bg_color=ffffff&color=1a7f37&line=1a7f37&point=1f2328&area=true&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishant6565&theme=github-compact&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" width="100%" alt="Ishant Gupta's Contribution Graph" />
-  </picture>
+  <img src="https://ghchart.rshah.org/39d353/Ishant6565" alt="Ishant Gupta's Contribution Calendar" />
 </div>
+
 
 ###
 
