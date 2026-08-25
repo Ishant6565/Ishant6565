@@ -111,9 +111,8 @@
 
 ###
 
-<!-- 📊 Contribution Calendar -->
 <div align="center">
-  <img src="https://ghchart.rshah.org/39d353/Ishant6565" alt="Ishant Gupta's Contribution Calendar" />
+  <img src="assets/metrics.isocalendar.svg" alt="Contributions calendar" />
 </div>
 
 
